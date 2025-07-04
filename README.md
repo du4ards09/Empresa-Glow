@@ -1,6 +1,10 @@
 # ✨ GLOW - Empresa Fictícia de Desenvolvimento de Sistemas
 
 **GLOW** é uma empresa fictícia criada como parte do Trabalho de Conclusão de Curso (TCC) do curso de Desenvolvimento de Sistemas da ETEC de Guaianazes.
+ ---
+ 
+##🎥 Assista ao vídeo de demonstração(./caminho/para/seu-video.mp4)
+
 
 ## 🚀 Sobre a GLOW
 
