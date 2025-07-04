@@ -3,7 +3,7 @@
 **GLOW** é uma empresa fictícia criada como parte do Trabalho de Conclusão de Curso (TCC) do curso de Desenvolvimento de Sistemas da ETEC de Guaianazes.
  ---
  
-##🎥 Assista ao vídeo de demonstração(./caminho/para/seu-video.mp4)
+## 🎥 Assista ao vídeo de demonstração: (https://github.com/du4ards09/Empresa-Glow/blob/main/Video/Grava%C3%A7%C3%A3o%20de%20Tela%202025-07-04%20012431.mp4)
 
 
 ## 🚀 Sobre a GLOW
